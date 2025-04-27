@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @refon1004
--- 🌱 I’m currently learning Python and how to program a Chess game
-
+-- 🌱 I’m currently learning Python an AI stuff
 
 <!---
 refon1004/refon1004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
